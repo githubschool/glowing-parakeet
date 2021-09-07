@@ -1,5 +1,7 @@
 # GitHub for Developers
 
+Welcome!
+
 - Class Date: September 7 - 8, 2021
 - Facilitator: @selkins13
 
